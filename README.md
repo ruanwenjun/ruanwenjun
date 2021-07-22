@@ -4,4 +4,4 @@
 
 - 👉 Open source enthusiast.
 - 💻 Focusing on distributed system and microservice middleware.
-- 🍭 Particate in Apache/DolphinScheduler and Apache/incubator-eventmesh
+- 🍭 Participating in Apache/DolphinScheduler and Apache/incubator-eventmesh
