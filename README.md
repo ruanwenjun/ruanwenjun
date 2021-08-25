@@ -1,6 +1,3 @@
 - 👉 Open source enthusiast
 - 💻 Focusing on distributed system and microservice middleware
 - 🍭 Participating in [DolphinScheduler](https://github.com/apache/dolphinscheduler) /[EventMesh](https://github.com/apache/incubator-eventmesh)
-
-
-<!--START_SECTION:activity-->
